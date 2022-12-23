@@ -1,0 +1,15 @@
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D1_02_chisla_kvadrat\bin\Debug\net7.0\D1_02_chisla_kvadrat.exe
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D1_02_chisla_kvadrat\bin\Debug\net7.0\D1_02_chisla_kvadrat.deps.json
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D1_02_chisla_kvadrat\bin\Debug\net7.0\D1_02_chisla_kvadrat.runtimeconfig.json
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D1_02_chisla_kvadrat\bin\Debug\net7.0\D1_02_chisla_kvadrat.dll
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D1_02_chisla_kvadrat\bin\Debug\net7.0\D1_02_chisla_kvadrat.pdb
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D1_02_chisla_kvadrat\obj\Debug\net7.0\D1_02_chisla_kvadrat.csproj.AssemblyReference.cache
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D1_02_chisla_kvadrat\obj\Debug\net7.0\D1_02_chisla_kvadrat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D1_02_chisla_kvadrat\obj\Debug\net7.0\D1_02_chisla_kvadrat.AssemblyInfoInputs.cache
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D1_02_chisla_kvadrat\obj\Debug\net7.0\D1_02_chisla_kvadrat.AssemblyInfo.cs
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D1_02_chisla_kvadrat\obj\Debug\net7.0\D1_02_chisla_kvadrat.csproj.CoreCompileInputs.cache
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D1_02_chisla_kvadrat\obj\Debug\net7.0\D1_02_chisla_kvadrat.dll
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D1_02_chisla_kvadrat\obj\Debug\net7.0\refint\D1_02_chisla_kvadrat.dll
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D1_02_chisla_kvadrat\obj\Debug\net7.0\D1_02_chisla_kvadrat.pdb
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D1_02_chisla_kvadrat\obj\Debug\net7.0\D1_02_chisla_kvadrat.genruntimeconfig.cache
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D1_02_chisla_kvadrat\obj\Debug\net7.0\ref\D1_02_chisla_kvadrat.dll
