@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "D3_03_rasstoyanie_mejdu_dvumya_tochkami/1.0.0": {
+        "runtime": {
+          "D3_03_rasstoyanie_mejdu_dvumya_tochkami.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "D3_03_rasstoyanie_mejdu_dvumya_tochkami/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "D3_04_tablitsa_kvadratov_chisel/1.0.0": {
+        "runtime": {
+          "D3_04_tablitsa_kvadratov_chisel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "D3_04_tablitsa_kvadratov_chisel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

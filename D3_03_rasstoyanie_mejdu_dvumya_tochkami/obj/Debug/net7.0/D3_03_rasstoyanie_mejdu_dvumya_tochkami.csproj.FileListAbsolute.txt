@@ -1,0 +1,15 @@
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D3_03_rasstoyanie_mejdu_dvumya_tochkami\obj\Debug\net7.0\D3_03_rasstoyanie_mejdu_dvumya_tochkami.csproj.AssemblyReference.cache
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D3_03_rasstoyanie_mejdu_dvumya_tochkami\obj\Debug\net7.0\D3_03_rasstoyanie_mejdu_dvumya_tochkami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D3_03_rasstoyanie_mejdu_dvumya_tochkami\obj\Debug\net7.0\D3_03_rasstoyanie_mejdu_dvumya_tochkami.AssemblyInfoInputs.cache
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D3_03_rasstoyanie_mejdu_dvumya_tochkami\obj\Debug\net7.0\D3_03_rasstoyanie_mejdu_dvumya_tochkami.AssemblyInfo.cs
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D3_03_rasstoyanie_mejdu_dvumya_tochkami\obj\Debug\net7.0\D3_03_rasstoyanie_mejdu_dvumya_tochkami.csproj.CoreCompileInputs.cache
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D3_03_rasstoyanie_mejdu_dvumya_tochkami\bin\Debug\net7.0\D3_03_rasstoyanie_mejdu_dvumya_tochkami.exe
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D3_03_rasstoyanie_mejdu_dvumya_tochkami\bin\Debug\net7.0\D3_03_rasstoyanie_mejdu_dvumya_tochkami.deps.json
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D3_03_rasstoyanie_mejdu_dvumya_tochkami\bin\Debug\net7.0\D3_03_rasstoyanie_mejdu_dvumya_tochkami.runtimeconfig.json
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D3_03_rasstoyanie_mejdu_dvumya_tochkami\bin\Debug\net7.0\D3_03_rasstoyanie_mejdu_dvumya_tochkami.dll
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D3_03_rasstoyanie_mejdu_dvumya_tochkami\bin\Debug\net7.0\D3_03_rasstoyanie_mejdu_dvumya_tochkami.pdb
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D3_03_rasstoyanie_mejdu_dvumya_tochkami\obj\Debug\net7.0\D3_03_rasstoyanie_mejdu_dvumya_tochkami.dll
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D3_03_rasstoyanie_mejdu_dvumya_tochkami\obj\Debug\net7.0\refint\D3_03_rasstoyanie_mejdu_dvumya_tochkami.dll
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D3_03_rasstoyanie_mejdu_dvumya_tochkami\obj\Debug\net7.0\D3_03_rasstoyanie_mejdu_dvumya_tochkami.pdb
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D3_03_rasstoyanie_mejdu_dvumya_tochkami\obj\Debug\net7.0\D3_03_rasstoyanie_mejdu_dvumya_tochkami.genruntimeconfig.cache
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D3_03_rasstoyanie_mejdu_dvumya_tochkami\obj\Debug\net7.0\ref\D3_03_rasstoyanie_mejdu_dvumya_tochkami.dll

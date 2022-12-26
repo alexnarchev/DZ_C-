@@ -1,0 +1,15 @@
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D3_04_tablitsa_kvadratov_chisel\bin\Debug\net7.0\D3_04_tablitsa_kvadratov_chisel.exe
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D3_04_tablitsa_kvadratov_chisel\bin\Debug\net7.0\D3_04_tablitsa_kvadratov_chisel.deps.json
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D3_04_tablitsa_kvadratov_chisel\bin\Debug\net7.0\D3_04_tablitsa_kvadratov_chisel.runtimeconfig.json
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D3_04_tablitsa_kvadratov_chisel\bin\Debug\net7.0\D3_04_tablitsa_kvadratov_chisel.dll
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D3_04_tablitsa_kvadratov_chisel\bin\Debug\net7.0\D3_04_tablitsa_kvadratov_chisel.pdb
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D3_04_tablitsa_kvadratov_chisel\obj\Debug\net7.0\D3_04_tablitsa_kvadratov_chisel.csproj.AssemblyReference.cache
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D3_04_tablitsa_kvadratov_chisel\obj\Debug\net7.0\D3_04_tablitsa_kvadratov_chisel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D3_04_tablitsa_kvadratov_chisel\obj\Debug\net7.0\D3_04_tablitsa_kvadratov_chisel.AssemblyInfoInputs.cache
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D3_04_tablitsa_kvadratov_chisel\obj\Debug\net7.0\D3_04_tablitsa_kvadratov_chisel.AssemblyInfo.cs
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D3_04_tablitsa_kvadratov_chisel\obj\Debug\net7.0\D3_04_tablitsa_kvadratov_chisel.csproj.CoreCompileInputs.cache
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D3_04_tablitsa_kvadratov_chisel\obj\Debug\net7.0\D3_04_tablitsa_kvadratov_chisel.dll
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D3_04_tablitsa_kvadratov_chisel\obj\Debug\net7.0\refint\D3_04_tablitsa_kvadratov_chisel.dll
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D3_04_tablitsa_kvadratov_chisel\obj\Debug\net7.0\D3_04_tablitsa_kvadratov_chisel.pdb
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D3_04_tablitsa_kvadratov_chisel\obj\Debug\net7.0\D3_04_tablitsa_kvadratov_chisel.genruntimeconfig.cache
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D3_04_tablitsa_kvadratov_chisel\obj\Debug\net7.0\ref\D3_04_tablitsa_kvadratov_chisel.dll
