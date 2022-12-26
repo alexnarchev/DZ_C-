@@ -11,3 +11,15 @@ for(i = 1; i <= n; i++)
 {
     Console.WriteLine($"Квадрат числа {n} где {i}^2 {i * i}");
 }
+
+
+
+
+// Console.WriteLine("Введите число: ");
+// int n = Convert.ToInt32(Console.ReadLine());
+
+// for(i = 1; i <= n; i++)
+// {
+//      Console.Write(i * i + ", ");
+// }
+// Console.WriteLine(n * n + ".");
