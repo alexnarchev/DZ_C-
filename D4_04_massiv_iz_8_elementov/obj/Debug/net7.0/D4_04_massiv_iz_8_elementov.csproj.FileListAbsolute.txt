@@ -1,0 +1,15 @@
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D4_04_massiv_iz_8_elementov\bin\Debug\net7.0\D4_04_massiv_iz_8_elementov.exe
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D4_04_massiv_iz_8_elementov\bin\Debug\net7.0\D4_04_massiv_iz_8_elementov.deps.json
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D4_04_massiv_iz_8_elementov\bin\Debug\net7.0\D4_04_massiv_iz_8_elementov.runtimeconfig.json
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D4_04_massiv_iz_8_elementov\bin\Debug\net7.0\D4_04_massiv_iz_8_elementov.dll
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D4_04_massiv_iz_8_elementov\bin\Debug\net7.0\D4_04_massiv_iz_8_elementov.pdb
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D4_04_massiv_iz_8_elementov\obj\Debug\net7.0\D4_04_massiv_iz_8_elementov.csproj.AssemblyReference.cache
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D4_04_massiv_iz_8_elementov\obj\Debug\net7.0\D4_04_massiv_iz_8_elementov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D4_04_massiv_iz_8_elementov\obj\Debug\net7.0\D4_04_massiv_iz_8_elementov.AssemblyInfoInputs.cache
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D4_04_massiv_iz_8_elementov\obj\Debug\net7.0\D4_04_massiv_iz_8_elementov.AssemblyInfo.cs
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D4_04_massiv_iz_8_elementov\obj\Debug\net7.0\D4_04_massiv_iz_8_elementov.csproj.CoreCompileInputs.cache
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D4_04_massiv_iz_8_elementov\obj\Debug\net7.0\D4_04_massiv_iz_8_elementov.dll
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D4_04_massiv_iz_8_elementov\obj\Debug\net7.0\refint\D4_04_massiv_iz_8_elementov.dll
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D4_04_massiv_iz_8_elementov\obj\Debug\net7.0\D4_04_massiv_iz_8_elementov.pdb
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D4_04_massiv_iz_8_elementov\obj\Debug\net7.0\D4_04_massiv_iz_8_elementov.genruntimeconfig.cache
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D4_04_massiv_iz_8_elementov\obj\Debug\net7.0\ref\D4_04_massiv_iz_8_elementov.dll

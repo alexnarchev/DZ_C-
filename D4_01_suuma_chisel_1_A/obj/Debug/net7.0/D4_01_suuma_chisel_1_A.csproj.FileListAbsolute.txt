@@ -1,0 +1,15 @@
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D4_01_suuma_chisel_1_A\bin\Debug\net7.0\D4_01_suuma_chisel_1_A.exe
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D4_01_suuma_chisel_1_A\bin\Debug\net7.0\D4_01_suuma_chisel_1_A.deps.json
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D4_01_suuma_chisel_1_A\bin\Debug\net7.0\D4_01_suuma_chisel_1_A.runtimeconfig.json
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D4_01_suuma_chisel_1_A\bin\Debug\net7.0\D4_01_suuma_chisel_1_A.dll
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D4_01_suuma_chisel_1_A\bin\Debug\net7.0\D4_01_suuma_chisel_1_A.pdb
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D4_01_suuma_chisel_1_A\obj\Debug\net7.0\D4_01_suuma_chisel_1_A.csproj.AssemblyReference.cache
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D4_01_suuma_chisel_1_A\obj\Debug\net7.0\D4_01_suuma_chisel_1_A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D4_01_suuma_chisel_1_A\obj\Debug\net7.0\D4_01_suuma_chisel_1_A.AssemblyInfoInputs.cache
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D4_01_suuma_chisel_1_A\obj\Debug\net7.0\D4_01_suuma_chisel_1_A.AssemblyInfo.cs
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D4_01_suuma_chisel_1_A\obj\Debug\net7.0\D4_01_suuma_chisel_1_A.csproj.CoreCompileInputs.cache
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D4_01_suuma_chisel_1_A\obj\Debug\net7.0\D4_01_suuma_chisel_1_A.dll
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D4_01_suuma_chisel_1_A\obj\Debug\net7.0\refint\D4_01_suuma_chisel_1_A.dll
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D4_01_suuma_chisel_1_A\obj\Debug\net7.0\D4_01_suuma_chisel_1_A.pdb
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D4_01_suuma_chisel_1_A\obj\Debug\net7.0\D4_01_suuma_chisel_1_A.genruntimeconfig.cache
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D4_01_suuma_chisel_1_A\obj\Debug\net7.0\ref\D4_01_suuma_chisel_1_A.dll

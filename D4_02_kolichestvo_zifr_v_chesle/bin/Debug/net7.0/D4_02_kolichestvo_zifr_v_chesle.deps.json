@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "D4_02_kolichestvo_zifr_v_chesle/1.0.0": {
+        "runtime": {
+          "D4_02_kolichestvo_zifr_v_chesle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "D4_02_kolichestvo_zifr_v_chesle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

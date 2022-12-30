@@ -15,7 +15,7 @@ int z2 = Coordinate("z", "2");
 int Coordinate(string Coordinate, string Point)
 {
     Console.Write($"Введите координату {Coordinate} точки {Point}: ");
-    return Convert.ToInt16(Console.ReadLine());
+    return Convert.ToInt32(Console.ReadLine());
 }
 
 double Decision(double x1, double x2, double y1, double y2, double z1, double z2)
