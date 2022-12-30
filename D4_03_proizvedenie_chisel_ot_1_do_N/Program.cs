@@ -12,12 +12,13 @@ int ReadInt(string message)
 // возвращает произведение от 1 до Number
 int GetSumToNumber(int number)
 {
-    int multy = 1;
+    int sum = 1;
     for (int i = 1; i <= number; i++)
     {
-        multy *= 1; // multy = multi * i
+        sum *= i; 
+        // sum = sum + i
     }
-    return multy;
+    return sum;
 }
 
 int a = ReadInt("Введите число: ");
