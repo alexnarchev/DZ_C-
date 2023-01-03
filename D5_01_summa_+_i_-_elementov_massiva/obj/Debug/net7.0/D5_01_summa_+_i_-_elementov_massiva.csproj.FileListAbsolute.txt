@@ -1,0 +1,15 @@
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D5_01_summa_+_i_-_elementov_massiva\obj\Debug\net7.0\D5_01_summa_+_i_-_elementov_massiva.csproj.AssemblyReference.cache
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D5_01_summa_+_i_-_elementov_massiva\obj\Debug\net7.0\D5_01_summa_+_i_-_elementov_massiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D5_01_summa_+_i_-_elementov_massiva\obj\Debug\net7.0\D5_01_summa_+_i_-_elementov_massiva.AssemblyInfoInputs.cache
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D5_01_summa_+_i_-_elementov_massiva\obj\Debug\net7.0\D5_01_summa_+_i_-_elementov_massiva.AssemblyInfo.cs
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D5_01_summa_+_i_-_elementov_massiva\obj\Debug\net7.0\D5_01_summa_+_i_-_elementov_massiva.csproj.CoreCompileInputs.cache
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D5_01_summa_+_i_-_elementov_massiva\bin\Debug\net7.0\D5_01_summa_+_i_-_elementov_massiva.exe
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D5_01_summa_+_i_-_elementov_massiva\bin\Debug\net7.0\D5_01_summa_+_i_-_elementov_massiva.deps.json
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D5_01_summa_+_i_-_elementov_massiva\bin\Debug\net7.0\D5_01_summa_+_i_-_elementov_massiva.runtimeconfig.json
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D5_01_summa_+_i_-_elementov_massiva\bin\Debug\net7.0\D5_01_summa_+_i_-_elementov_massiva.dll
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D5_01_summa_+_i_-_elementov_massiva\bin\Debug\net7.0\D5_01_summa_+_i_-_elementov_massiva.pdb
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D5_01_summa_+_i_-_elementov_massiva\obj\Debug\net7.0\D5_01_summa_+_i_-_elementov_massiva.dll
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D5_01_summa_+_i_-_elementov_massiva\obj\Debug\net7.0\refint\D5_01_summa_+_i_-_elementov_massiva.dll
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D5_01_summa_+_i_-_elementov_massiva\obj\Debug\net7.0\D5_01_summa_+_i_-_elementov_massiva.pdb
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D5_01_summa_+_i_-_elementov_massiva\obj\Debug\net7.0\D5_01_summa_+_i_-_elementov_massiva.genruntimeconfig.cache
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D5_01_summa_+_i_-_elementov_massiva\obj\Debug\net7.0\ref\D5_01_summa_+_i_-_elementov_massiva.dll

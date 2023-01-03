@@ -6,8 +6,9 @@
 Console.Write("Введите 8 чисел через запятую: ");
 string? seriesOfNumbers = Console.ReadLine();
 
-seriesOfNumbers = seriesOfNumbers + ",";    
+seriesOfNumbers = seriesOfNumbers + ",";    // доп запятая для обозначения конца строки
 
+// функция удаления пробелов из строки 
 string RemoveSpaces (string series){
   string seriesNew = "";
   for (int i = 0; i < series.Length; i++)
@@ -20,8 +21,9 @@ string RemoveSpaces (string series){
   return seriesNew;
 }
 
-
-void СheckNumber2 (int  series){
+//  функция  проверки на правильность ввода 
+void СheckNumber2 (int  series)
+{
 
       if (series == '0'||series == '1'||series == '2'
       ||series == '3'||series == '4'||series == '5'||series == '6'
@@ -35,10 +37,10 @@ void СheckNumber2 (int  series){
       }
 }
 
-
+// функция  создания и заполнения массива из строки
 int[] ArrayOfNumbers(string seriesNew){ 
 
-  int[] arrayOfNumbers = new int[1];  
+  int[] arrayOfNumbers = new int[1];    // инициализация массива из 1 элемента
 
   int j =0;
 
@@ -50,15 +52,16 @@ int[] ArrayOfNumbers(string seriesNew){
       СheckNumber2(seriesNew[i]);
       i++;
     }
-    arrayOfNumbers[j] = Convert.ToInt32(seriesNew1);   
+    arrayOfNumbers[j] = Convert.ToInt32(seriesNew1);    // заполняет массив значениями из строки
     if (i < seriesNew.Length-1){
-      arrayOfNumbers = arrayOfNumbers.Concat(new int[] {0}).ToArray();    
+      arrayOfNumbers = arrayOfNumbers.Concat(new int[] {0}).ToArray();    // добавляет новый нулевой элемент в конец массива
     }
     j++;
   }
   return arrayOfNumbers;
 }
 
+// функция  вывода массива на печать 
 void PrintArry(int[] coll){
   int count = coll.Length;
   int index = 0;
@@ -73,9 +76,6 @@ void PrintArry(int[] coll){
   Console.Write("]");
 } 
 
-
 string seriesNew = RemoveSpaces(seriesOfNumbers);
-
 int[] arrayOfNumbers =  ArrayOfNumbers(seriesNew);
-
 PrintArry(arrayOfNumbers);

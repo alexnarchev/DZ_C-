@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "D5_01_summa_+_i_-_elementov_massiva/1.0.0": {
+        "runtime": {
+          "D5_01_summa_+_i_-_elementov_massiva.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "D5_01_summa_+_i_-_elementov_massiva/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
