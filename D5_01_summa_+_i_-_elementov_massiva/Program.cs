@@ -38,7 +38,9 @@ int [] GetRandomArray(int length, int leftRange, int rightRange)
 const int LENGTH = 12;
 const int LEFTRANGE = -9;
 const int RIGHTRANGE = 9;
+
 int[] massive = GetRandomArray(LENGTH, LEFTRANGE, RIGHTRANGE);
 Console.WriteLine($"{string.Join(", ", massive)}");
+
 (int sumP, int sumN) = SumPositiveAndNegative(massive);
-Console.WriteLine($"Сумма + элементов = {sumP}, - = {sumN}");
+Console.WriteLine($"Сумма + элементов = {sumP}, сумма - = {sumN}");

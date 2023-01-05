@@ -1,0 +1,15 @@
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D5_04_proizvedenie_par_chisel\obj\Debug\net7.0\D5_04_proizvedenie_par_chisel.csproj.AssemblyReference.cache
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D5_04_proizvedenie_par_chisel\obj\Debug\net7.0\D5_04_proizvedenie_par_chisel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D5_04_proizvedenie_par_chisel\obj\Debug\net7.0\D5_04_proizvedenie_par_chisel.AssemblyInfoInputs.cache
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D5_04_proizvedenie_par_chisel\obj\Debug\net7.0\D5_04_proizvedenie_par_chisel.AssemblyInfo.cs
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D5_04_proizvedenie_par_chisel\obj\Debug\net7.0\D5_04_proizvedenie_par_chisel.csproj.CoreCompileInputs.cache
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D5_04_proizvedenie_par_chisel\bin\Debug\net7.0\D5_04_proizvedenie_par_chisel.exe
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D5_04_proizvedenie_par_chisel\bin\Debug\net7.0\D5_04_proizvedenie_par_chisel.deps.json
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D5_04_proizvedenie_par_chisel\bin\Debug\net7.0\D5_04_proizvedenie_par_chisel.runtimeconfig.json
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D5_04_proizvedenie_par_chisel\bin\Debug\net7.0\D5_04_proizvedenie_par_chisel.dll
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D5_04_proizvedenie_par_chisel\bin\Debug\net7.0\D5_04_proizvedenie_par_chisel.pdb
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D5_04_proizvedenie_par_chisel\obj\Debug\net7.0\D5_04_proizvedenie_par_chisel.dll
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D5_04_proizvedenie_par_chisel\obj\Debug\net7.0\refint\D5_04_proizvedenie_par_chisel.dll
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D5_04_proizvedenie_par_chisel\obj\Debug\net7.0\D5_04_proizvedenie_par_chisel.pdb
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D5_04_proizvedenie_par_chisel\obj\Debug\net7.0\D5_04_proizvedenie_par_chisel.genruntimeconfig.cache
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D5_04_proizvedenie_par_chisel\obj\Debug\net7.0\ref\D5_04_proizvedenie_par_chisel.dll
