@@ -7,13 +7,13 @@
 // [1, 2, 3, 6, 2] -> 0
 // [10, 11, 12, 13, 14] -> 5
 
-int [] RandomArray(int length, int leftRange, int rightRange)
+int [] GetRandomArray(int length, int leftRange, int rightRange)
 {
     int[] array = new int[length];
     Random rand = new Random();
     for(int i = 0; i < array.Length; i++)
     {
-        array[i] = rand.Next(0, 150);
+        array[i] = rand.Next(leftRange, rightRange + 1);
     }
     return array;
 }
@@ -23,12 +23,17 @@ Console.Write($"{array[i], 4}");
 
 int count = 0;
 
-for(var i = 0; i < array.Length; i++)
+for(int i = 0; i < array.Length; i++)
 {
     if(i > 10 && i < 99)
     count++;
 }
 
+const int LENGTH = 123;
+const int LEFTRANGE = 0;
+const int RIGHTRANGE = 150;
+
+int[] massive = GetRandomArray(LENGTH, LEFTRANGE, RIGHTRANGE);
 Console.WriteLine();
 Console.WriteLine($"Значения элементов массива, которые лежат в отрезке [10,99]: {count}");
 
