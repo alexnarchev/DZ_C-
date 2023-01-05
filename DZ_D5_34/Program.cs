@@ -9,6 +9,7 @@ int[] numbers = new int[size];
 ArrayRandomNumbers(numbers);
 Console.WriteLine("Массив: ");
 PrintArray(numbers);
+
 int count = 0;
 
 for (int j = 0; j < numbers.Length; j++)

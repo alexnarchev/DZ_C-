@@ -7,35 +7,40 @@
 // [1, 2, 3, 6, 2] -> 0
 // [10, 11, 12, 13, 14] -> 5
 
-int [] RandomArray(int length, int leftRange, int rightRange)
-{
-    int[] array = new int[length];
-    Random rand = new Random();
-    for(int i = 0; i < array.Length; i++)
-    {
-        array[i] = rand.Next(leftRange, rightRange + 1);
-    }
-    return array;
-}
+Console.WriteLine("Введите количество элементов массива: ");
+int size = Convert.ToInt32(Console.ReadLine());
+int[] numbers = new int[size];
+ArrayRandomNumbers(numbers);
+Console.WriteLine("Массив: ");
+PrintArray(numbers);
 
+// Random random = new Random();
 
-for(int i = 0; i < array.Length; i++)
-Console.Write($"{array[i], 4}");
+// a[i] = random.Next(0, 150);
 
 int count = 0;
 
-for(int i = 0; i < array.Length; i++)
+for(int j = 0; j < numbers.Length; j++) // for(int i = 0; i < a.Length; i++)
+if(j > 10 && j < 99)
+count++;
+
+Console.WriteLine(); // Console.Write($"{a[i], 4}");
+Console.WriteLine($"Всего {numbers.Length} чисел в массиве, {count} из них лежат в указанном диапазоне");
+
+void ArrayRandomNumbers(int[] numbers)
 {
-    if(i > 10 && i < 99)
-    count++;
+    for(int i = 0; i < numbers.Length; i++)
+    {
+        numbers[i] = new Random().Next(0,150);
+    }
 }
-
-const int LENGTH = 123;
-const int LEFTRANGE = 0;
-const int RIGHTRANGE = 150;
-
-//int[] massive = RandomArray(LENGTH, LEFTRANGE, RIGHTRANGE);
-Console.WriteLine();
-Console.WriteLine($"Значения элементов массива, которые лежат в отрезке [10,99]: {count}");
-
-//короче я пытался, исправить, ещё больше запутался, и ушёл. надоело.
+void PrintArray(int[] numbers)
+{
+    Console.Write("[ ");
+    for(int i = 0; i < numbers.Length; i++)
+    {
+        Console.Write(numbers[i] + " ");
+    }
+    Console.Write("]");
+    Console.WriteLine();
+}
