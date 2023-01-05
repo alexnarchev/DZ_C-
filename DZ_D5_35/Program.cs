@@ -7,7 +7,7 @@
 // [1, 2, 3, 6, 2] -> 0
 // [10, 11, 12, 13, 14] -> 5
 
-int [] GetRandomArray(int length, int leftRange, int rightRange)
+int [] RandomArray(int length, int leftRange, int rightRange)
 {
     int[] array = new int[length];
     Random rand = new Random();
@@ -17,6 +17,7 @@ int [] GetRandomArray(int length, int leftRange, int rightRange)
     }
     return array;
 }
+
 
 for(int i = 0; i < array.Length; i++)
 Console.Write($"{array[i], 4}");
@@ -33,7 +34,8 @@ const int LENGTH = 123;
 const int LEFTRANGE = 0;
 const int RIGHTRANGE = 150;
 
-int[] massive = GetRandomArray(LENGTH, LEFTRANGE, RIGHTRANGE);
+//int[] massive = RandomArray(LENGTH, LEFTRANGE, RIGHTRANGE);
 Console.WriteLine();
 Console.WriteLine($"Значения элементов массива, которые лежат в отрезке [10,99]: {count}");
 
+//короче я пытался, исправить, ещё больше запутался, и ушёл. надоело.
