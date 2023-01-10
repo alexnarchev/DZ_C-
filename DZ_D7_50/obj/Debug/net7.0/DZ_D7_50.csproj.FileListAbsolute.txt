@@ -1,0 +1,15 @@
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\DZ_D7_50\bin\Debug\net7.0\DZ_D7_50.exe
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\DZ_D7_50\bin\Debug\net7.0\DZ_D7_50.deps.json
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\DZ_D7_50\bin\Debug\net7.0\DZ_D7_50.runtimeconfig.json
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\DZ_D7_50\bin\Debug\net7.0\DZ_D7_50.dll
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\DZ_D7_50\bin\Debug\net7.0\DZ_D7_50.pdb
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\DZ_D7_50\obj\Debug\net7.0\DZ_D7_50.csproj.AssemblyReference.cache
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\DZ_D7_50\obj\Debug\net7.0\DZ_D7_50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\DZ_D7_50\obj\Debug\net7.0\DZ_D7_50.AssemblyInfoInputs.cache
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\DZ_D7_50\obj\Debug\net7.0\DZ_D7_50.AssemblyInfo.cs
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\DZ_D7_50\obj\Debug\net7.0\DZ_D7_50.csproj.CoreCompileInputs.cache
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\DZ_D7_50\obj\Debug\net7.0\DZ_D7_50.dll
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\DZ_D7_50\obj\Debug\net7.0\refint\DZ_D7_50.dll
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\DZ_D7_50\obj\Debug\net7.0\DZ_D7_50.pdb
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\DZ_D7_50\obj\Debug\net7.0\DZ_D7_50.genruntimeconfig.cache
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\DZ_D7_50\obj\Debug\net7.0\ref\DZ_D7_50.dll

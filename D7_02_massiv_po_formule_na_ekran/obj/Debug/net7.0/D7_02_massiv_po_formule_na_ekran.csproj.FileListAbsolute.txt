@@ -1,0 +1,15 @@
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D7_02_massiv_po_formule_na_ekran\obj\Debug\net7.0\D7_02_massiv_po_formule_na_ekran.csproj.AssemblyReference.cache
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D7_02_massiv_po_formule_na_ekran\obj\Debug\net7.0\D7_02_massiv_po_formule_na_ekran.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D7_02_massiv_po_formule_na_ekran\obj\Debug\net7.0\D7_02_massiv_po_formule_na_ekran.AssemblyInfoInputs.cache
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D7_02_massiv_po_formule_na_ekran\obj\Debug\net7.0\D7_02_massiv_po_formule_na_ekran.AssemblyInfo.cs
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D7_02_massiv_po_formule_na_ekran\obj\Debug\net7.0\D7_02_massiv_po_formule_na_ekran.csproj.CoreCompileInputs.cache
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D7_02_massiv_po_formule_na_ekran\bin\Debug\net7.0\D7_02_massiv_po_formule_na_ekran.exe
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D7_02_massiv_po_formule_na_ekran\bin\Debug\net7.0\D7_02_massiv_po_formule_na_ekran.deps.json
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D7_02_massiv_po_formule_na_ekran\bin\Debug\net7.0\D7_02_massiv_po_formule_na_ekran.runtimeconfig.json
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D7_02_massiv_po_formule_na_ekran\bin\Debug\net7.0\D7_02_massiv_po_formule_na_ekran.dll
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D7_02_massiv_po_formule_na_ekran\bin\Debug\net7.0\D7_02_massiv_po_formule_na_ekran.pdb
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D7_02_massiv_po_formule_na_ekran\obj\Debug\net7.0\D7_02_massiv_po_formule_na_ekran.dll
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D7_02_massiv_po_formule_na_ekran\obj\Debug\net7.0\refint\D7_02_massiv_po_formule_na_ekran.dll
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D7_02_massiv_po_formule_na_ekran\obj\Debug\net7.0\D7_02_massiv_po_formule_na_ekran.pdb
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D7_02_massiv_po_formule_na_ekran\obj\Debug\net7.0\D7_02_massiv_po_formule_na_ekran.genruntimeconfig.cache
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D7_02_massiv_po_formule_na_ekran\obj\Debug\net7.0\ref\D7_02_massiv_po_formule_na_ekran.dll

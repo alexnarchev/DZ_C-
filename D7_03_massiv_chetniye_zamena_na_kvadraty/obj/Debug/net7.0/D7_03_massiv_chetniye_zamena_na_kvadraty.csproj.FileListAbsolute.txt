@@ -1,0 +1,15 @@
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D7_03_massiv_chetniye_zamena_na_kvadraty\obj\Debug\net7.0\D7_03_massiv_chetniye_zamena_na_kvadraty.csproj.AssemblyReference.cache
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D7_03_massiv_chetniye_zamena_na_kvadraty\obj\Debug\net7.0\D7_03_massiv_chetniye_zamena_na_kvadraty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D7_03_massiv_chetniye_zamena_na_kvadraty\obj\Debug\net7.0\D7_03_massiv_chetniye_zamena_na_kvadraty.AssemblyInfoInputs.cache
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D7_03_massiv_chetniye_zamena_na_kvadraty\obj\Debug\net7.0\D7_03_massiv_chetniye_zamena_na_kvadraty.AssemblyInfo.cs
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D7_03_massiv_chetniye_zamena_na_kvadraty\obj\Debug\net7.0\D7_03_massiv_chetniye_zamena_na_kvadraty.csproj.CoreCompileInputs.cache
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D7_03_massiv_chetniye_zamena_na_kvadraty\bin\Debug\net7.0\D7_03_massiv_chetniye_zamena_na_kvadraty.exe
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D7_03_massiv_chetniye_zamena_na_kvadraty\bin\Debug\net7.0\D7_03_massiv_chetniye_zamena_na_kvadraty.deps.json
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D7_03_massiv_chetniye_zamena_na_kvadraty\bin\Debug\net7.0\D7_03_massiv_chetniye_zamena_na_kvadraty.runtimeconfig.json
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D7_03_massiv_chetniye_zamena_na_kvadraty\bin\Debug\net7.0\D7_03_massiv_chetniye_zamena_na_kvadraty.dll
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D7_03_massiv_chetniye_zamena_na_kvadraty\bin\Debug\net7.0\D7_03_massiv_chetniye_zamena_na_kvadraty.pdb
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D7_03_massiv_chetniye_zamena_na_kvadraty\obj\Debug\net7.0\D7_03_massiv_chetniye_zamena_na_kvadraty.dll
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D7_03_massiv_chetniye_zamena_na_kvadraty\obj\Debug\net7.0\refint\D7_03_massiv_chetniye_zamena_na_kvadraty.dll
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D7_03_massiv_chetniye_zamena_na_kvadraty\obj\Debug\net7.0\D7_03_massiv_chetniye_zamena_na_kvadraty.pdb
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D7_03_massiv_chetniye_zamena_na_kvadraty\obj\Debug\net7.0\D7_03_massiv_chetniye_zamena_na_kvadraty.genruntimeconfig.cache
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D7_03_massiv_chetniye_zamena_na_kvadraty\obj\Debug\net7.0\ref\D7_03_massiv_chetniye_zamena_na_kvadraty.dll

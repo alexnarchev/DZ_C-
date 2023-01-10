@@ -14,14 +14,10 @@ ArrayRandomNumbers(numbers);
 Console.WriteLine("Массив: ");
 PrintArray(numbers);
 
-// Random random = new Random();
-
-// a[i] = random.Next(0, 150);
-
 int count = 0;
 
-for(int j = 0; j < numbers.Length; j++) // for(int i = 0; i < a.Length; i++)
-if(j > 10 && j < 99)
+for(int j = 0; j < numbers.Length; j++) 
+if(numbers[j] > 10 && numbers[j] < 99)
 count++;
 
 Console.WriteLine(); // Console.Write($"{a[i], 4}");
