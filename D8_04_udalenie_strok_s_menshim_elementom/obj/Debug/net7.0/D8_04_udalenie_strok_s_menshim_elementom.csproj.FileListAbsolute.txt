@@ -1,0 +1,15 @@
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_04_udalenie_strok_s_menshim_elementom\bin\Debug\net7.0\D8_04_udalenie_strok_s_menshim_elementom.exe
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_04_udalenie_strok_s_menshim_elementom\bin\Debug\net7.0\D8_04_udalenie_strok_s_menshim_elementom.deps.json
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_04_udalenie_strok_s_menshim_elementom\bin\Debug\net7.0\D8_04_udalenie_strok_s_menshim_elementom.runtimeconfig.json
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_04_udalenie_strok_s_menshim_elementom\bin\Debug\net7.0\D8_04_udalenie_strok_s_menshim_elementom.dll
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_04_udalenie_strok_s_menshim_elementom\bin\Debug\net7.0\D8_04_udalenie_strok_s_menshim_elementom.pdb
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_04_udalenie_strok_s_menshim_elementom\obj\Debug\net7.0\D8_04_udalenie_strok_s_menshim_elementom.csproj.AssemblyReference.cache
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_04_udalenie_strok_s_menshim_elementom\obj\Debug\net7.0\D8_04_udalenie_strok_s_menshim_elementom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_04_udalenie_strok_s_menshim_elementom\obj\Debug\net7.0\D8_04_udalenie_strok_s_menshim_elementom.AssemblyInfoInputs.cache
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_04_udalenie_strok_s_menshim_elementom\obj\Debug\net7.0\D8_04_udalenie_strok_s_menshim_elementom.AssemblyInfo.cs
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_04_udalenie_strok_s_menshim_elementom\obj\Debug\net7.0\D8_04_udalenie_strok_s_menshim_elementom.csproj.CoreCompileInputs.cache
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_04_udalenie_strok_s_menshim_elementom\obj\Debug\net7.0\D8_04_udalenie_strok_s_menshim_elementom.dll
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_04_udalenie_strok_s_menshim_elementom\obj\Debug\net7.0\refint\D8_04_udalenie_strok_s_menshim_elementom.dll
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_04_udalenie_strok_s_menshim_elementom\obj\Debug\net7.0\D8_04_udalenie_strok_s_menshim_elementom.pdb
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_04_udalenie_strok_s_menshim_elementom\obj\Debug\net7.0\D8_04_udalenie_strok_s_menshim_elementom.genruntimeconfig.cache
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_04_udalenie_strok_s_menshim_elementom\obj\Debug\net7.0\ref\D8_04_udalenie_strok_s_menshim_elementom.dll

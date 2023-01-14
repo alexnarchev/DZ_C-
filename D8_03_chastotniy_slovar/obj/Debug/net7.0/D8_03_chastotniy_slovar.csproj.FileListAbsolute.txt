@@ -1,0 +1,15 @@
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_03_chastotniy_slovar\bin\Debug\net7.0\D8_03_chastotniy_slovar.exe
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_03_chastotniy_slovar\bin\Debug\net7.0\D8_03_chastotniy_slovar.deps.json
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_03_chastotniy_slovar\bin\Debug\net7.0\D8_03_chastotniy_slovar.runtimeconfig.json
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_03_chastotniy_slovar\bin\Debug\net7.0\D8_03_chastotniy_slovar.dll
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_03_chastotniy_slovar\bin\Debug\net7.0\D8_03_chastotniy_slovar.pdb
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_03_chastotniy_slovar\obj\Debug\net7.0\D8_03_chastotniy_slovar.csproj.AssemblyReference.cache
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_03_chastotniy_slovar\obj\Debug\net7.0\D8_03_chastotniy_slovar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_03_chastotniy_slovar\obj\Debug\net7.0\D8_03_chastotniy_slovar.AssemblyInfoInputs.cache
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_03_chastotniy_slovar\obj\Debug\net7.0\D8_03_chastotniy_slovar.AssemblyInfo.cs
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_03_chastotniy_slovar\obj\Debug\net7.0\D8_03_chastotniy_slovar.csproj.CoreCompileInputs.cache
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_03_chastotniy_slovar\obj\Debug\net7.0\D8_03_chastotniy_slovar.dll
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_03_chastotniy_slovar\obj\Debug\net7.0\refint\D8_03_chastotniy_slovar.dll
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_03_chastotniy_slovar\obj\Debug\net7.0\D8_03_chastotniy_slovar.pdb
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_03_chastotniy_slovar\obj\Debug\net7.0\D8_03_chastotniy_slovar.genruntimeconfig.cache
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_03_chastotniy_slovar\obj\Debug\net7.0\ref\D8_03_chastotniy_slovar.dll

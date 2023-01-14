@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "D8_02_stroki_na_stolbcy/1.0.0": {
+        "runtime": {
+          "D8_02_stroki_na_stolbcy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "D8_02_stroki_na_stolbcy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "D8_04_udalenie_strok_s_menshim_elementom/1.0.0": {
+        "runtime": {
+          "D8_04_udalenie_strok_s_menshim_elementom.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "D8_04_udalenie_strok_s_menshim_elementom/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

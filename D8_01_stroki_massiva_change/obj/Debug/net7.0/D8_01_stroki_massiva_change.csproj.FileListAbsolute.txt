@@ -1,0 +1,15 @@
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_01_stroki_massiva_change\obj\Debug\net7.0\D8_01_stroki_massiva_change.csproj.AssemblyReference.cache
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_01_stroki_massiva_change\obj\Debug\net7.0\D8_01_stroki_massiva_change.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_01_stroki_massiva_change\obj\Debug\net7.0\D8_01_stroki_massiva_change.AssemblyInfoInputs.cache
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_01_stroki_massiva_change\obj\Debug\net7.0\D8_01_stroki_massiva_change.AssemblyInfo.cs
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_01_stroki_massiva_change\obj\Debug\net7.0\D8_01_stroki_massiva_change.csproj.CoreCompileInputs.cache
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_01_stroki_massiva_change\bin\Debug\net7.0\D8_01_stroki_massiva_change.exe
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_01_stroki_massiva_change\bin\Debug\net7.0\D8_01_stroki_massiva_change.deps.json
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_01_stroki_massiva_change\bin\Debug\net7.0\D8_01_stroki_massiva_change.runtimeconfig.json
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_01_stroki_massiva_change\bin\Debug\net7.0\D8_01_stroki_massiva_change.dll
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_01_stroki_massiva_change\bin\Debug\net7.0\D8_01_stroki_massiva_change.pdb
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_01_stroki_massiva_change\obj\Debug\net7.0\D8_01_stroki_massiva_change.dll
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_01_stroki_massiva_change\obj\Debug\net7.0\refint\D8_01_stroki_massiva_change.dll
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_01_stroki_massiva_change\obj\Debug\net7.0\D8_01_stroki_massiva_change.pdb
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_01_stroki_massiva_change\obj\Debug\net7.0\D8_01_stroki_massiva_change.genruntimeconfig.cache
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_01_stroki_massiva_change\obj\Debug\net7.0\ref\D8_01_stroki_massiva_change.dll

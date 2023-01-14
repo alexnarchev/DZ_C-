@@ -1,0 +1,15 @@
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_02_stroki_na_stolbcy\bin\Debug\net7.0\D8_02_stroki_na_stolbcy.exe
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_02_stroki_na_stolbcy\bin\Debug\net7.0\D8_02_stroki_na_stolbcy.deps.json
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_02_stroki_na_stolbcy\bin\Debug\net7.0\D8_02_stroki_na_stolbcy.runtimeconfig.json
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_02_stroki_na_stolbcy\bin\Debug\net7.0\D8_02_stroki_na_stolbcy.dll
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_02_stroki_na_stolbcy\bin\Debug\net7.0\D8_02_stroki_na_stolbcy.pdb
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_02_stroki_na_stolbcy\obj\Debug\net7.0\D8_02_stroki_na_stolbcy.csproj.AssemblyReference.cache
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_02_stroki_na_stolbcy\obj\Debug\net7.0\D8_02_stroki_na_stolbcy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_02_stroki_na_stolbcy\obj\Debug\net7.0\D8_02_stroki_na_stolbcy.AssemblyInfoInputs.cache
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_02_stroki_na_stolbcy\obj\Debug\net7.0\D8_02_stroki_na_stolbcy.AssemblyInfo.cs
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_02_stroki_na_stolbcy\obj\Debug\net7.0\D8_02_stroki_na_stolbcy.csproj.CoreCompileInputs.cache
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_02_stroki_na_stolbcy\obj\Debug\net7.0\D8_02_stroki_na_stolbcy.dll
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_02_stroki_na_stolbcy\obj\Debug\net7.0\refint\D8_02_stroki_na_stolbcy.dll
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_02_stroki_na_stolbcy\obj\Debug\net7.0\D8_02_stroki_na_stolbcy.pdb
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_02_stroki_na_stolbcy\obj\Debug\net7.0\D8_02_stroki_na_stolbcy.genruntimeconfig.cache
+C:\Users\alexn\OneDrive\Документы\GB\C#\tryordye\DZ_C-\D8_02_stroki_na_stolbcy\obj\Debug\net7.0\ref\D8_02_stroki_na_stolbcy.dll
